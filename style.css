@@ -4,12 +4,27 @@ body{
     width: 960 px;
     font-size: 18px;
     text-align: center;
-    font color: #777;
+    color: #777;
 }
 
 .container{ color: #ebebeb;
     padding: 30%;
-
+    border-width: 30px;
+    
 }
 
+.Nav{ color: #ebebeb;
+background: #777;
+}
 
+.Section{color: #ebebeb;
+    background: #777
+}
+
+.Aside{color: #ebebeb;
+    background: #777
+}
+
+.Footer{color: #ebebeb;
+    background: #777
+}
