@@ -1,30 +1,35 @@
 body{
     background-color: #777;
+    color: #777;
     font-family: Arial, Helvetica, sans-serif;
     width: 960 px;
     font-size: 18px;
     text-align: center;
-    color: #777;
+   
 }
 
-.container{ color: #ebebeb;
+.Header{ background-color: #ebebeb;
     padding: 30%;
     border-width: 30px;
-    
+    margin-bottom: 10px;
 }
 
 .Nav{ color: #ebebeb;
 background: #777;
+margin-bottom: 10px;
 }
 
 .Section{color: #ebebeb;
-    background: #777
+    background: #777;
+    float:left;
+    width: 495px;
 }
 
 .Aside{color: #ebebeb;
-    background: #777
+    background: #777;
+    float:left
 }
 
 .Footer{color: #ebebeb;
-    background: #777
+    background: #777;
 }
