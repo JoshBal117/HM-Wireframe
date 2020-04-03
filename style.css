@@ -26,7 +26,7 @@ body{
     float:left;
     width: 495px;
 }
-.Article{ 
+.Article{ background-color: #777;
     box-sizing: border-box;
 }
 .p1{
