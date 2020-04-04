@@ -29,6 +29,7 @@ body{
 .Article{ color: #ebebeb;
     background-color: #777;
     box-sizing: border-box;
+    margin-top: 10px;
 }
 .p1{
     background-color: #ebebeb;
