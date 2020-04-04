@@ -39,6 +39,12 @@ body{
     box-sizing: border-box;
 }
 
+.p2{
+    background-color: #ebebeb;
+    color: #777;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
 
 .Aside{color: #777;
     background-color: #ebebeb;
