@@ -10,9 +10,9 @@ body{
 
 .Header{ background-color: #ebebeb;
     padding: 10px;
-    border-width: 10px;
-    margin-bottom: 10px;
-    margin-left: 60px;
+    border-width: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
 }
 
 .Nav{ 
@@ -36,14 +36,14 @@ body{
 .p1{
     background-color: #ebebeb;
     color: #777;
-    margin-top: 1px;
+    margin-top: 0px;
     box-sizing: border-box;
 }
 
 .p2{
     background-color: #ebebeb;
     color: #777;
-    margin-top: 1px;
+    margin-top: 0px;
     box-sizing: border-box;
 }
 
@@ -51,7 +51,7 @@ body{
     background-color: #ebebeb;
     float:left;
     margin-top: 15px;
-    ;
+    width: 495;
 }
 
 .Footer{color: #777;
