@@ -5,14 +5,15 @@ body{
     width: 960 px;
     font-size: 18px;
     text-align: center;
+    display: grid;
    
 }
 
 .Header{ background-color: #ebebeb;
     padding: 10px;
     border-width: 100px;
-    margin-bottom: 100px;
-    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 .Nav{ 
@@ -22,7 +23,7 @@ body{
     margin-bottom: 10px;
 }
 
-.container{color: #777;
+.w3-container{color: #777;
     background-color: #ebebeb;
     float:left;
     width: 495px;
