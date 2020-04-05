@@ -36,7 +36,6 @@ body{
     color: #777;
     background-color: #ebebeb;
     width: 495px;
-    height: 495px;
     float:right;
 }
 
@@ -60,7 +59,7 @@ body{
 .p2{
     background-color: #ebebeb;
     color: #777;
-    margin-top: 0px;
+    margin-top: 5px;
     box-sizing: border-box;
 }
 
