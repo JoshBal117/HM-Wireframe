@@ -23,16 +23,19 @@ body{
     margin-bottom: 10px;
 }
 
-.w3-container{color: #777;
+.w3-container{
+    color: #777;
     background-color: #ebebeb;
     float:left;
     width: 495px;
 }
-.Article{ color: #ebebeb;
+.Article{
+    color: #ebebeb;
     background-color: #777;
     padding: 15px;
     margin-top: 15px;
     margin-bottom: 0 px;
+    clear: left;
 }
 .p1{
     background-color: #ebebeb;
