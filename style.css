@@ -35,7 +35,7 @@ body{
     padding: 15px;
     margin-top: 15px;
     margin-bottom: 0 px;
-    clear: left;
+   
 }
 .p1{
     background-color: #ebebeb;
@@ -55,7 +55,7 @@ body{
     color: #777;
     background-color: #ebebeb;
     width: 495px;
-    float: left;
+    float: right;
 }
 
 .Footer{color: #777;
