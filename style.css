@@ -28,6 +28,7 @@ body{
     background-color: #ebebeb;
     float:left;
     width: 495px;
+    display: inline-block;
 }
 .Article{
     color: #ebebeb;
