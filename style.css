@@ -10,10 +10,11 @@ body{
 }
 
 .Header{ background-color: #ebebeb;
-    padding: 10px;
-    border-width: 100px;
+    padding: 15px;
+    border-width: 15px;
     margin-bottom: 20px;
     margin-left: 20px;
+    width: 990px;
 }
 
 .Nav{ 
@@ -21,6 +22,7 @@ body{
     padding:15px;
     border-width: 15px;
     margin-bottom: 10px;
+    width: 990px;
 }
 
 .w3-container{
@@ -55,10 +57,12 @@ body{
     color: #777;
     background-color: #ebebeb;
     width: 495px;
+    float:right;
 }
 
 .Footer{color: #777;
     background-color: #ebebeb;
     margin-top: 15px;
     padding: 20px;
+    width: 990px;
 }
