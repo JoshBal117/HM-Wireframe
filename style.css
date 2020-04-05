@@ -31,6 +31,16 @@ body{
     float:left;
     width: 495px;
 }
+
+.Aside{
+    color: #777;
+    background-color: #ebebeb;
+    width: 495px;
+    float:right;
+}
+
+
+
 .Article{
     color: #ebebeb;
     background-color: #777;
@@ -53,12 +63,7 @@ body{
     box-sizing: border-box;
 }
 
-.Aside{
-    color: #777;
-    background-color: #ebebeb;
-    width: 495px;
-    float:right;
-}
+
 
 .Footer{color: #777;
     background-color: #ebebeb;
